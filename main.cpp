@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstring>
 
-int main(int argc, char **argv)
+int main(int argc, char **argv) //ychebnaya rabota
 
 {
 int k=0;
